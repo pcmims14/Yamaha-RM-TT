@@ -1,0 +1,8 @@
+* text=auto
+
+# The version step runs under sh, which fails on CRLF
+*.sh text eol=lf
+*.cmd text eol=crlf
+
+*.exe binary
+*.png binary

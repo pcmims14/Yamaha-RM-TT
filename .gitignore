@@ -1,0 +1,12 @@
+# Compiled output: rebuilt with Ctrl+Shift+B, published through GitHub Releases
+*.qplug
+
+# Python test runner
+__pycache__/
+*.pyc
+
+# Editor and OS leftovers
+*.bak
+*.tmp
+Thumbs.db
+desktop.ini
